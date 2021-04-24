@@ -1,0 +1,27 @@
+.logo {
+	  text-align: right;
+}
+
+.Blank {
+  padding: 3%;
+  font-size: 500%;
+  background-color: rgb(17, 44, 84);
+} 
+
+.title1{
+	display: inline;
+}
+
+#AnnouncementsTitle {
+	background-color: #002F0D;
+	color: #FFFFFF;
+	font-size: 400%;
+}
+
+#AnnoucementItem{
+	font-size: 200%;
+}
+
+#box1 {
+	display: inline;
+}
